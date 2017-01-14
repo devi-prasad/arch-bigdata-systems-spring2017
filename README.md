@@ -7,7 +7,7 @@ Instructor: M. Devi Prasad
 ## Purpose and Course Objectives  
 We will take up the exercise of identifying and elaborating the big data processing requirements in Manipal. In addition, we will identify some of the challenges of big data processing in the context of Manipal Healthcare systems. We will learn that there are too many challenges in data collection, data integration, enforcing privacy and security, and in provisioning data science services to researchers, business partners, and other interested parties.
 
-Drawing from a reasonably deeper understanding, we shall propose Manipal Data Architecture (MDA) for enabling and supporting data science activities in the areas of interest to Manipal University.
+Drawing from a reasonably deeper understanding, we shall propose Manipal Data Architecture (MDA) for enabling and supporting data science activities in the areas of interest for Manipal University.
 
 We shall try to identify technical experiments, investigations, and research required to engineer a software architecture. We shall keep visiting the proposed architecture to fill in more details in the due course.
 

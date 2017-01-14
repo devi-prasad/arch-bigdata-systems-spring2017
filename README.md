@@ -25,7 +25,7 @@ At the end of the course, the student should be able to
  1. design layered software architectures for big data processing.
  2. develop solutions that combine batch-processing with streaming techniques.
  3. learn to use Apache technology suite: Hadoop, Spark, Kafka, and related frameworks.
- 4. develop a few data analytics and visualization services within the proposed architecture of MDA.
+ 4. develop a few data analytics and visualization services within MDA.
 
 
 ## Lecture Plan for the First Week
